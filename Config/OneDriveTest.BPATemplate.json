@@ -1,0 +1,17 @@
+{
+  "name": "OneDriveTest",
+  "style": "Tenant",
+  "Fields": [
+    {
+      "name": "deletedUserPersonalSiteRetentionPeriodInDays",
+      "UseExistingInfo": true,
+      "FrontendFields": [
+        {
+          "name": "OneDrive Retention",
+          "value": "SharepointSettings.deletedUserPersonalSiteRetentionPeriodInDays",
+          "formatter": "number"
+        }
+      ]
+    }
+  ]
+}
