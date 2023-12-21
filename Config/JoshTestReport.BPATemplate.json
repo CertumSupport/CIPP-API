@@ -3,7 +3,7 @@
   "style": "Tenant",
   "Fields": [
     {
-      "name": "Password Never Expires",
+      "name": "PasswordNeverExpires",
       "UseExistingInfo": true,
       "FrontendFields": [
         {
